@@ -12,15 +12,16 @@ from selenium.webdriver.common.by import By
 
 driver= webdriver.Edge()
 
-#CityLink Webpage
-citylink_url=("shows.cityline.com.hk/en/2026/treasuretour26.html")
+#Google webpage
+google_url=("https://www.google.com/")
 
-driver.get("https://shows.cityline.com.hk/en/2026/treasuretour26.html")
+driver.get("https://www.google.com/")
 
 sleep(30)
 
 
     
+
 
 
 
