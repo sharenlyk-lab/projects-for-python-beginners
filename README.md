@@ -1,2 +1,2 @@
-# projects-for-python-beginners
+# exercise-for-python-beginners
 python projects for beginners 
